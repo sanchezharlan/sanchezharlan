@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harlan
 - 👀 I’m interested in web development using python
-- 🌱 I’m currently learning python, django, react
+- 🌱 I’m currently learning python, django/flask, react
 - 📫 How to reach me ... sanchezharlan@gmail.com
 
 <!---
